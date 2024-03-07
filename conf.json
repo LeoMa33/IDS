@@ -1,0 +1,10 @@
+{
+    "discord_webhook":"<DiscordWebHook>",
+    "logFile":"ids.log",
+    "buildFile":"db.json",
+    "reportsFolder":"reports",
+    "toCheck":[
+        "<FileToCheck>",
+        "<FileToCheck>"
+    ]
+}
